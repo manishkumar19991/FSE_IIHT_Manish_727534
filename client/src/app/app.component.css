@@ -64,3 +64,13 @@
     height: 10rem;
 
 }
+
+.navbar-inverse{
+    background-color: #337ab7;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-nav{
+    color: white;
+}
